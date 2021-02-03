@@ -6,9 +6,9 @@ $db_user =  "root";
 $db_pass = "";*/
 //Remote database connection credentials
 $db_host = "remotemysql.com";
-$db_name = "NhQd82hxIE";
-$db_user =  "8aIOzEjsKx";
-$db_pass = "NhQd82hxIE";
+$db_name = "NSiMyYrEp3";
+$db_user =  "owmHLA0mRW";
+$db_pass = "NSiMyYrEp3";
 
 //Create mySqli object
 
