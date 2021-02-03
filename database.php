@@ -6,7 +6,7 @@ $db_user =  "root";
 $db_pass = "";*/
 //Remote database connection credentials
 $db_host = "remotemysql.com";
-$db_name = "NSiMyYrEp3";
+$db_name = "owmHLA0mRW";
 $db_user =  "owmHLA0mRW";
 $db_pass = "NSiMyYrEp3";
 
